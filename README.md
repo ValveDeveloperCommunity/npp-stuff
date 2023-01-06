@@ -1,2 +1,6 @@
-# npp-stuff
-Stuff for Notepad++
+# Notepad++ Stuff
+
+## Included Languages
+- Valve QC
+- Valve FGD
+- Valve Material Type
