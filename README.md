@@ -1,7 +1,7 @@
 # Notepad++ Stuff
-This repository contains various styles created for personal use.
+At the moment, this repository contains syntax highlighting for some [Valve](https://github.com/ValveSoftware) formats.
 
-### Languages
+### Syntax Highlighting
 Designed for the [Material Theme](https://github.com/Codextor/npp-material-theme).
 - Valve QC
 - Valve FGD
